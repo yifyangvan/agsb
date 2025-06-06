@@ -1,5 +1,5 @@
 # ArgoSB Python版本
-
+https://halo.zmkk.fun/archives/1749118787188
 ## 简介
 
 这是ArgoSB脚本的Python版本，无需root权限，**完全适用于普通用户**。所有文件安装在用户主目录下的`.agsb`隐藏文件夹中，不会影响系统目录。脚本使用Python 3，**仅使用Python标准库**，无需安装额外依赖。
